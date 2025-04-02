@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "杨飞"
   pronouns         : # example: "she/her"  
-  bio              : "地测学院导师"
-  location         : "中国矿业大学（北京）"
-  employer         : "Red Brick University"
+  bio              : "中国矿业大学（北京）地测学院副教授"
+  location         : "北京"
+  employer         : "中国矿业大学（北京）"
   uri              : # URL
-  email            : "杨飞@...." 
+  email            : "yangfei@cumtb.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
