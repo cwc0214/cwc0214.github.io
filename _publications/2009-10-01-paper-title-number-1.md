@@ -1,5 +1,5 @@
 ---
-title: "全国大学生测绘学科创新创业智能大赛，科技论文竞赛大赛二等奖/测绘程序设计竞赛一等奖"
+title: "全国大学生测绘学科创新创业智能大赛，以及科技论文竞赛大赛二等奖/测绘程序设计竞赛一等奖"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
