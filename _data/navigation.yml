@@ -23,8 +23,8 @@ main:
   - title: "小组成员"
     url: /year-archive/
     
-  - title: "组内活动"
-    url: /cv/
+  #- title: "组内活动"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
