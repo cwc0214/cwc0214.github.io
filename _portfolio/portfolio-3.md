@@ -1,6 +1,6 @@
 ---
-title: "组内成员-陈维聪"
-excerpt: "<br/><img src='/images/cwc.png'>"
+title: "组内活动"
+excerpt: "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
