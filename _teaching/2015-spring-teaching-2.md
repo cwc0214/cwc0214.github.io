@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "北斗/GNSS气象学(对流层建模/水汽层析)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1

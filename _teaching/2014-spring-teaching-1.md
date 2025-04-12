@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "北斗/GNSS高精度数据处理及应用"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
