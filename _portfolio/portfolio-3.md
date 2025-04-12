@@ -1,6 +1,6 @@
 ---
-title: "组内成员-3"
-excerpt: "陈维聪<br/><img src='/images/cwc.png'>"
+title: "组内成员-陈维聪"
+excerpt: "<br/><img src='/images/cwc.png'>"
 collection: portfolio
 ---
 

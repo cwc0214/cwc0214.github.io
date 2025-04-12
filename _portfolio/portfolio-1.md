@@ -1,6 +1,6 @@
 ---
-title: "组内成员-1"
-excerpt: "王壮壮<br/><img src='/images/wzz.png'>"
+title: "组内成员-王壮壮"
+excerpt: "<br/><img src='/images/wzz.png'>"
 collection: portfolio
 ---
 
