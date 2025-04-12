@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "全国大学生测绘学科创新创业智能大赛，科技论文竞赛大赛一等奖、二等奖各1项，2022年"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4

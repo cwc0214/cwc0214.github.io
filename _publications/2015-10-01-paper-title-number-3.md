@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "全国高等学校大学生测绘程序设计竞赛二等奖、虚拟仿真数字测图二等奖，2021年"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3

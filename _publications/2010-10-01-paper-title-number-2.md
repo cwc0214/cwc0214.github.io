@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "中国测绘学会PIE遥感与地理信息一体软件二次开发大赛一等奖，优秀指导老师，2021年"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
