@@ -1,6 +1,6 @@
 ---
-title: "组内成员-王壮壮"
-excerpt: "<br/><img src='/images/wzz.png'>"
+title: "组内环球旅行"
+excerpt: "<br/><img src='/images/hqlx.png'>"
 collection: portfolio
 ---
 
