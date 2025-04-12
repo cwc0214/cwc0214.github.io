@@ -1,5 +1,5 @@
 ---
-title: "北斗/GNSS高精度数据处理及应用"
+title: "本科生《GNSS原理与应用》、《数据结构》"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1

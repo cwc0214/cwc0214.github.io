@@ -1,5 +1,5 @@
 ---
-title: "北斗/GNSS气象学(对流层建模/水汽层析)"
+title: "研究生《GNSS地学应用》课程"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
