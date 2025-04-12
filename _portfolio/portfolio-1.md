@@ -1,5 +1,5 @@
 ---
-title: "组内环球旅行"
+title: "GRseRG_GNSS/RS空间环境研究组-北京环球影城旅行纪念"
 excerpt: "<br/><img src='/images/hqlx.png'>"
 collection: portfolio
 ---
