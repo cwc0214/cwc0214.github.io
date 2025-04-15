@@ -2,7 +2,7 @@
 title: "全国高等学校大学生测绘程序设计竞赛二等奖、虚拟仿真数字测图二等奖，2021年"
 collection: publications
 category: manuscripts
-%permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: '可以描述项目的具体内容.'
 date: 2015-10-01
 venue: 'Journal 1'
