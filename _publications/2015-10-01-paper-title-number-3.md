@@ -1,6 +1,6 @@
 ---
 title: "全国高等学校大学生测绘程序设计竞赛二等奖、虚拟仿真数字测图二等奖，2021年"
-#collection: publications
+collection: publications
 #category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
