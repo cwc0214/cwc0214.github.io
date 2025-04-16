@@ -1,14 +1,14 @@
 ---
 title: "本科生《GNSS原理与应用》、《数据结构》"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: ""
 date: 2014-01-01
-location: "City, Country"
+location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+具体描述详细内容
 
 Heading 1
 ======
