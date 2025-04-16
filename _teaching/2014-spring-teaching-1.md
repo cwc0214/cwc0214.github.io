@@ -3,12 +3,12 @@ title: "本科生《GNSS原理与应用》、《数据结构》"
 collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "具体描述内容"
+venue: ""
 date: 2014-01-01
 location: ""
 ---
 
-
+具体描述内容
 
 Heading 1
 ======
