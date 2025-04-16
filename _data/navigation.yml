@@ -14,8 +14,8 @@ main:
   - title: "研究方向"
     url: /talks/    
 
-  - title: "课程教学"
-    url: /teaching/    
+  #- title: "课程教学"
+  #  url: /teaching/    
     
   - title: "组内活动"
     url: /portfolio/
