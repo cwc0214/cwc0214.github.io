@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "杨飞 / YF"
+title                    : "杨飞"
 title_separator          : "-"
 name                     : &name "杨飞"
 description              : &description "personal description"
