@@ -1,7 +1,7 @@
 ---
 title: "全国大学生测绘学科创新创业智能大赛，科技论文竞赛大赛二等奖/测绘程序设计竞赛一等奖，2023年"
-#collection: publications
-#category: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: '可以描述项目的具体内容.'
 #date: 2015-10-01
