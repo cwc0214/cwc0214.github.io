@@ -14,17 +14,17 @@ main:
   - title: "研究方向"
     url: /talks/    
 
-  #- title: "课程教学"
-  #  url: /teaching/    
+  - title: "教学课程"
+    url: /teaching/    
     
-  - title: "组内活动"
+  - title: "学术成果"
     url: /portfolio/
         
   - title: "小组成员"
     url: /year-archive/
     
-  #- title: "组内活动"
-  #  url: /cv/
+  - title: "开放资源"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
