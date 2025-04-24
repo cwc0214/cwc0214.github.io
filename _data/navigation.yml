@@ -11,9 +11,6 @@ main:
   - title: "荣誉奖励"
     url: /publications/
 
-  - title: "研究方向"
-    url: /talks/
-
   - title: "教学课程"
     url: /teaching/    
     
@@ -22,7 +19,9 @@ main:
         
   - title: "小组成员"
     url: /year-archive/
-    
+
+  - title: "研究方向"
+    url: /talks/    
 #  - title: "开放资源"
 #    url: /cv/
     
