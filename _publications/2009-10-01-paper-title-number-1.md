@@ -11,4 +11,3 @@ permalink: /publication/2015-10-01-paper-title-number-3
 #citation: '参与学生名单. (2015). &quot;获奖具体项目.&quot; <i></i> .'
 ---
 
-具体描述的东西.
