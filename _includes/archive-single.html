@@ -87,12 +87,18 @@
   pointer-events: none;         /* 禁用链接点击 */
   text-decoration: none;        /* 移除默认下划线 */
   color: inherit;               /* 继承父元素颜色 */
+  background: transparent;      /* 移除背景 */
+  border: none;                 /* 移除链接边框 */
+  outline: none;                /* 移除链接聚焦时的轮廓 */
 }
 
 .archive__item-title a:hover {
-  pointer-events: none;         /* 禁用悬停时的点击 */
   text-decoration: none !important;  /* 确保悬停时不显示下划线 */
+  background: transparent;           /* 确保没有背景 */
+  border: none;                      /* 确保没有边框 */
+  outline: none;                     /* 确保没有聚焦轮廓 */
 }
+
 
 
 
