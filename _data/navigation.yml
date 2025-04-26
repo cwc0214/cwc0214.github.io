@@ -15,13 +15,13 @@ main:
     url: /teaching/    
     
   - title: "学术成果"
-    url: /portfolio/
+    url: /talks/
         
   - title: "小组成员"
     url: /year-archive/
 
   - title: "开放资源"
-    url: /talks/    
+    url: /portfolio/   
 #  - title: "开放资源"
 #    url: /cv/
     
