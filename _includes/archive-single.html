@@ -29,6 +29,12 @@
     <h2 class="archive__item-title" itemprop="headline">
       {{ title }}
     </h2>
+    .archive__item-title a {
+      pointer-events: none;
+      text-decoration: none;
+      color: inherit; /* 保持标题的颜色 */
+    }
+    
     
     {% if post.read_time %}
     <!--  <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p> -->
