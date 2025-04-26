@@ -10,7 +10,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 #citation: '参与学生名单. (2015). &quot;获奖具体项目.&quot; <i></i> .'
 ---
-2025，首都前沿学术成果
+2025，首都前沿学术成果                                                
 2024，中国矿业大学（北京）专业学位研究生优秀教学案例
 2024，中国矿业大学（北京）大学生创新训练项目优秀指导教师
 2024，中国矿业大学（北京）优秀教学质量奖
