@@ -1,5 +1,5 @@
 ---
-title: "研究生《GNSS地学应用》课程"
+title: "研究生课程"
 collection: teaching
 type: ""
 permalink: /teaching/2015-spring-teaching-1
@@ -8,7 +8,8 @@ date: 2015-01-01
 location: ""
 ---
 
-描述具体内容
+《GNSS地学应用》16学时                                                              
+《信息化测绘及资源环境监测前沿》4学时                                                
 
 Heading 1
 ======
