@@ -22,8 +22,9 @@ main:
 
   - title: "开放资源"
     url: /portfolio/   
-#  - title: "开放资源"
-#    url: /cv/
+
+  - title: "开放资源"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
