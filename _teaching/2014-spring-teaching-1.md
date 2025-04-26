@@ -1,5 +1,5 @@
 ---
-title: "本科生《GNSS原理与应用》、《数据结构》"
+title: "本科生课程"
 collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
@@ -8,7 +8,9 @@ date: 2014-01-01
 location: ""
 ---
 
-具体描述内容
+《数据结构》48学时
+《测绘遥感学科导论》2学时
+《GNSS原理及其应用》40学时
 
 Heading 1
 ======
