@@ -1,152 +1,135 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "您的开放资源",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://youropenresources.github.io",
+    "summary": "目前参与多个开源项目，致力于开源社区的研究与开发。",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "地球",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "yourgithubusername",
+        "url": "https://github.com/yourgithubusername"
+      },
+      {
+        "network": "Open Science Framework",
+        "username": "",
+        "url": "https://osf.io/yourprofile/"
+      },
+      {
+        "network": "DOI (Digital Object Identifier)",
+        "username": "",
+        "url": "https://doi.org/yourdoi"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "开源大学",
+      "area": "开源资源管理博士",
+      "studyType": "Ph.D",
+      "startDate": "2016",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "开源知识大学",
+      "area": "开源软件开发硕士",
+      "studyType": "M.S.",
+      "startDate": "2013",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    "软件开发",
+    "版本控制（Git）",
+    "开源研究方法",
+    "社区参与"
+  ],
+  "languages": [
+    "英语",
+    "西班牙语"
+  ],
+  "interests": [
+    "开源软件",
+    "合作研究",
+    "开放数据",
+    "数字教育"
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "开源科学与研究的未来",
+      "publisher": "开源科学期刊",
+      "releaseDate": "2023-06-01",
+      "website": "https://youropenresources.github.io/files/opensciencepaper.pdf",
+      "summary": "本文探讨了开源科学的发展及其对全球研究的影响。"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "开源项目在教育中的应用",
+      "publisher": "教育技术期刊",
+      "releaseDate": "2022-05-01",
+      "website": "https://youropenresources.github.io/files/opensourceeducation.pdf",
+      "summary": "本文全面分析了开源项目在教育领域的应用。"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "开源研究：全球视角",
+      "event": "开源研究大会2023",
+      "date": "2023-09-01",
+      "location": "全球线上",
+      "description": "演讲内容：开源技术如何改变全球学术研究。"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "建设开放数据平台以促进科学合作",
+      "event": "全球开放数据峰会2022",
+      "date": "2022-11-15",
+      "location": "德国柏林",
+      "description": "讨论如何为研究者构建开放数据平台。"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "开源软件开发课程",
+      "institution": "开源大学",
+      "date": "2021-01-01",
+      "role": "讲师",
+      "description": "教授本科生开源软件开发的基础和协作。"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "合作研究方法工作坊",
+      "institution": "开源知识大学",
+      "date": "2020-09-01",
+      "role": "工作坊领导",
+      "description": "领导关于如何在开放环境中进行合作研究的工作坊。"
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "项目1：开源资源库",
+      "category": "开源项目",
+      "date": "2021-03-01",
+      "url": "https://github.com/yourusername/open-resource-repository",
+      "description": "这是一个开源教育资源库，旨在支持学习和研究。"
+    },
+    {
+      "name": "项目2：环境科学开源数据平台",
+      "category": "开源数据项目",
+      "date": "2022-05-15",
+      "url": "https://github.com/yourusername/open-data-environment",
+      "description": "一个开放平台，用于共享环境数据，支持全球可持续发展项目。"
     }
   ]
 }
