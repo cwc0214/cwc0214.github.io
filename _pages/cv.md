@@ -11,7 +11,8 @@ redirect_from:
 
 团队资源
 ======
-* 基于 GNSS-MR 的多卫星导航系统、多频段和多观测数据的水位反演软件:https://github.com/GRseRG-CUMTB/GMR-Water
+* 基于 GNSS-MR 的多卫星导航系统、多频段和多观测数据的水位反演软件:
+https://github.com/GRseRG-CUMTB/GMR-Water
 <!--* M.S. in Jekyll, GitHub University, 2014-->
 <!--* B.S. in GitHub, GitHub University, 2012-->
 
