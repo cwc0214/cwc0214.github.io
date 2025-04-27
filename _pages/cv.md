@@ -11,9 +11,9 @@ redirect_from:
 
 团队资源
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 基于 GNSS-MR 的多卫星导航系统、多频段和多观测数据的水位反演软件:https://github.com/GRseRG-CUMTB/GMR-Water
+* <!--M.S. in Jekyll, GitHub University, 2014-->
+* <!--B.S. in GitHub, GitHub University, 2012-->
 
 <!--Work experience
 ======
