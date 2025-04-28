@@ -11,7 +11,7 @@ redirect_from:
 
 团队资源
 ======
-*[GMR-Water: 基于 GNSS-MR 的水位反演软件](https://github.com/GRseRG-CUMTB/GMR-Water)
+[* GMR-Water: 基于 GNSS-MR 的水位反演软件](https://github.com/GRseRG-CUMTB/GMR-Water)
 
 <!--* M.S. in Jekyll, GitHub University, 2014-->
 <!--* B.S. in GitHub, GitHub University, 2012-->
