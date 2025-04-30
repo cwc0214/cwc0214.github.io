@@ -1,5 +1,5 @@
 ---
-title: "本科生课程"
+title: "研究生课程"
 collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
